@@ -7,3 +7,5 @@
 Old version on the left, next to the new version.
 
 Update: added another alternative [Open Target Folder 2 HVIF] that uses an arrow (taken from https://hvif-store.art/ and adjusted slightly).
+
+https://github.com/Meanwhile/OpenTargetFolder/blob/main/OTFarrow.png
