@@ -8,6 +8,8 @@ This alternative [Open Target Folder HVIF] tries to be a bit clearer in at least
 
 Old version on the left, next to the new version.
 
+-------------------------------------------------
+
 Update: added another alternative [Open Target Folder 2 HVIF] that uses an arrow (taken from https://hvif-store.art/ and adjusted slightly):
 
 ![Open Target Folder 2 HVIF](OTFarrow.png)
