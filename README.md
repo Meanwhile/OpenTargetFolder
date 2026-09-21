@@ -9,3 +9,5 @@ Old version on the left, next to the new version.
 Update: added another alternative [Open Target Folder 2 HVIF] that uses an arrow (taken from https://hvif-store.art/ and adjusted slightly):
 
 ![Open Target Folder 2 HVIF](OTFarrow.png)
+
+Together with some LOD fine-tuning of the folder icon, I think this one works best in 16x16.
